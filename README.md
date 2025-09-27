@@ -25,6 +25,7 @@ A responsive web app that displays food items from different countries in intera
 
 ```bash
 git clone https://github.com/tanzirrabby/Food-Search.git
-cd Food-Search-app
+cd Food-Search
 open index.html
+
 
