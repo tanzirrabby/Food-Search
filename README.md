@@ -24,6 +24,7 @@ A responsive web app that displays food items from different countries in intera
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/tanzirrabby/food-Search.git
-cd food-cards-app
+git clone https://github.com/tanzirrabby/Food-Search.git
+cd Food-Search-app
 open index.html
+
